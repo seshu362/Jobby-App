@@ -1,0 +1,15 @@
+.list-item {
+  display: flex;
+  flex-direction: row;
+  margin-left: 10px;
+  height: 40px;
+  align-items: center;
+}
+
+.label-name {
+  color: #f8fafc;
+  font-size: 15px;
+  font-weight: 400;
+  font-family: 'Roboto';
+  margin-left: 10px;
+}
